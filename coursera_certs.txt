@@ -37,3 +37,6 @@ Essential Cloud Infrastructure: Core Services				https://www.coursera.org/accoun
 Elastic Cloud Infrastructure: Scaling and Automation 		https://www.coursera.org/account/accomplishments/certificate/6CQ9UGSPEEK2
 Elastic Cloud Infrastructure: Containers and Services 		https://www.coursera.org/account/accomplishments/certificate/BT2JXU4JNGGX
 Reliable Cloud Infrastructure: Design and Process 			https://www.coursera.org/account/accomplishments/certificate/CZSQATMZK2ER
+
+
+Preparing for the Google Cloud Professional Data Engineer Exam 			https://www.coursera.org/account/accomplishments/certificate/C4HW8V8XDMKV
